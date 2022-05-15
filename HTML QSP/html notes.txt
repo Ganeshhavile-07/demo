@@ -1,0 +1,31 @@
+Web Technology:
+Web: It is a collection of Websites or webpages stored in web servers and connected to the computers through the internet
+
+Technology: The use of scientific knowledge to solve practical yes 
+The fullform of html is hypertext markup language
+current version of html is html5
+html means hyper text markup language
+hypertext means it contains link
+markup language means it contains tag opening tag and closing tag
+the advance level of html means xml
+Hyper--link to open the another page
+text-- Any data
+markup--predefiened terms
+predefiened terms- It is allready declared some tags
+Language--for communication purpose
+
+html is the root element of tag
+
+html there are two types of tags
+text which is written inside the angular brackets is called as tags
+tag: tag means it is predefiened terms
+1)paired tag
+2)Un paired tag
+paired tag:
+The tag is having both opening and closing tag
+ex.html,head,title,body
+paired tag means it is husband
+
+Unpaired tag:
+which is having only opening tag 
+it is also self opening tag
